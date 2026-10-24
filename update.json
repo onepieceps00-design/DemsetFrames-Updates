@@ -1,12 +1,11 @@
 {
-  "version": "3.0.38",
-  "downloadUrl": "https://github.com/onepieceps00-design/DemsetFrames-Updates/releases/download/v3.0.38/DemsetFrames-Setup-3.0.38.exe",
+  "version": "3.0.39",
+  "downloadUrl": "https://github.com/onepieceps00-design/DemsetFrames-Updates/releases/download/v3.0.39/DemsetFrames-Setup-3.0.39.exe",
   "releaseNotes": [
-    "تقليل حجم التثبيت؛ موديلات Topaz تُنزّل عند أول استخدام.",
-    "إصلاح قص إطار 9:16."
+    "نسخة جديدة جاهزة. حدّث وكمّل شغلك."
   ],
   "mandatory": false,
-  "sha512": "AoWFGxzYI1aCu/S4QKNEpuNFcnF2j16DgE1/k1Y3ahTzjeVLWrojGaSdlxwN7y5K9rEBK+ggYVj1rDbh32EWEA==",
-  "size": 548172914,
-  "releaseDate": "2026-10-24T01:26:26.952Z"
+  "sha512": "RnoykcZ/PP3DHmchATX7EjXzJsgcMMzPxcKi3J+TjbmeTuHK1/0xHYbQAZIT4ZSMJA6ruXrTTka9FU5fyF5OZQ==",
+  "size": 548173836,
+  "releaseDate": "2026-10-24T14:29:55.363Z"
 }
