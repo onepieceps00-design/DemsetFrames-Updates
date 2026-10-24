@@ -1,10 +1,14 @@
 {
-  "version": "3.0.22",
-  "downloadUrl": "https://github.com/onepieceps00-design/DemsetFrames-Updates/releases/download/v3.0.22/DemsetFrames-Setup-3.0.22.exe",
+  "version": "3.0.36",
+  "downloadUrl": "https://github.com/onepieceps00-design/DemsetFrames-Updates/releases/download/v3.0.36/DemsetFrames-Setup-3.0.36.exe",
   "releaseNotes": [
-    "تحسينات معاينة الفيديو قبل/بعد ومعالجة معاينة الخمس ثواني.",
-    "إصلاحات عرض المهام وإزالة التكبير بعجلة الماوس وشاشة التهيئة.",
+    "إصلاح Topaz الأصلي مع الحفاظ على الدقة وFPS وفصل البت ريت عنهما.",
+    "تصحيح البت ريت في H.264 وHEVC وإزالة ملء الشاشة من قبل وبعد؛ ملفات TikTok ومعالجات الحركة الأصلية دون تغيير.",
+    "يتطلب محرك Topaz تثبيت Topaz Video AI وتفعيله. AV1 داخل MP4 لا يضمن معدل بت ثابتًا.",
     "التحديث اختياري ويمكن تأجيله."
   ],
-  "mandatory": false
+  "mandatory": false,
+  "sha512": "PB8F5kGMLOQnwRKZwSERL6mrc5v7kWZTD9/tTpeM8bAGPSpiSA3YTZcugfgmAGDoI1PPXU7j9Ko6HjqAv1Salg==",
+  "size": 363507759,
+  "releaseDate": "2026-10-24T00:12:02.783Z"
 }
