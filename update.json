@@ -1,11 +1,11 @@
 {
-  "version": "3.0.43",
-  "downloadUrl": "https://github.com/onepieceps00-design/DemsetFrames-Updates/releases/download/v3.0.43/DemsetFrames-Setup-3.0.43.exe",
+  "version": "3.0.44",
+  "downloadUrl": "https://github.com/onepieceps00-design/DemsetFrames-Updates/releases/download/v3.0.44/DemsetFrames-Setup-3.0.44.exe",
   "releaseNotes": [
     "نسخة جديدة جاهزة. حدّث وكمّل شغلك."
   ],
   "mandatory": false,
-  "sha512": "sjmCcGWi84dV/FiOoGEcRzTmlMgoZ1aerH44xiXqSEH8h2FDCUmgOoXu7i8EeUBA/mUA2aurilG46fzlriTkog==",
-  "size": 548426174,
-  "releaseDate": "2026-10-25T08:11:35.515Z"
+  "sha512": "Rcd7aJL+uslgqO7Nj2ZMZCQu1D/IWtaP5k+vevs9kd/iz5dW2Lfmebjx6tR2wnf/FDUjdOnyu9YVPhPDkYzSTA==",
+  "size": 548431548,
+  "releaseDate": "2026-10-25T09:57:15.520Z"
 }
